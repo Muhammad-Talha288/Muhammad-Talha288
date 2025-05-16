@@ -1,16 +1,32 @@
-## Hi there 👋
+Welcome to My GitHub Profile! 👋
+I'm Muhammad Talha
+Frontend Developer
+Passionate about crafting beautiful, responsive, and user-friendly web applications. I specialize in modern frontend technologies, focusing on clean code, performance optimization, and seamless user experiences.
 
-<!--
-**Muhammad-Talha288/Muhammad-Talha288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Technologies & Tools
+Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Next.js
 
-Here are some ideas to get you started:
+Styling: Tailwind CSS, Bootstrap, SASS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+State Management: Redux, Context API
+
+Version Control: Git, GitHub
+
+Tools: VS Code, Figma, Chrome DevTools
+
+🚀 What I’m Currently Working On
+Building interactive web applications with React & Next.js
+
+Improving my skills in UI/UX design and performance optimization
+
+Contributing to open-source projects
+
+📫 Let’s Connect!
+
+LinkedIn: https://www.linkedin.com/in/muhammadtalha288/
+
+Twitter: https://x.com/MuhammadTa32608
+
+Email: talhamengal288@gmail.com
+
+Feel free to explore my repositories and reach out for collaborations or discussions! 😊
